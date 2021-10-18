@@ -1,4 +1,4 @@
-# JKR-MobileIron
+# PSMobileIron
 Used for interacting with MobileIron API
 
 
